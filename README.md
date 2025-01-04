@@ -1,2 +1,2 @@
 # FirebaseNotifier
-subProject of https://github.com/users/kenneth558/projects/2
+subProject of AndroidAppByAI https://github.com/users/kenneth558/projects/2
